@@ -142,11 +142,11 @@
 
 }
 
-header
+header, h1
 {
 	font-variant: small-caps;
     font-family: CHINESETAKEWAY;
-    src: url (C:/Users/LayllahT/Coursera-Test-Repository/mod2/fonts/CHINESETAKEWAY.ttf);
+    src: url (./mod2/fonts/CHINESETAKEWAY.ttf);
     font-style: normal;
     font-weight: 400;
     text-align: center;
