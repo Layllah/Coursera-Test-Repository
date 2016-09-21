@@ -101,6 +101,7 @@ section {
 }
 
 #footer .copyright {
+      clear:both;
       color: #000000;
       font-family: arial, sans-serif;
       font-size: 75%;
