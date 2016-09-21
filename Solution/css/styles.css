@@ -101,7 +101,7 @@ section {
 }
 
 #footer .copyright {
-      clear:both;
+      
       color: #000000;
       font-family: arial, sans-serif;
       font-size: 75%;
@@ -111,7 +111,7 @@ section {
       list-style: none;
       padding-top: 10px;
       text-align: center;
-      text-transform: uppercase;
+      
       text-shadow: 2px #ffffff;
 
     }
