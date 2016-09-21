@@ -111,7 +111,7 @@ section {
       list-style: none;
       padding-top: 10px;
       text-align: center;
-      
+      text-justify: distribute;
       text-shadow: 2px #ffffff;
 
     }
@@ -135,6 +135,7 @@ section {
           color: #ff0000;
           font-size: 90%;
           text-decoration: none;
+          
         }
 
           #footer .copyright li a:hover {
