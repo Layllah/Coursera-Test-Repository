@@ -135,13 +135,14 @@ section {
           color: #ff0000;
           font-size: 90%;
           text-decoration: none;
-          
+          text-justify:distribute;
         }
 
           #footer .copyright li a:hover {
             color: #92f562;
             font-size: 90%;
             text-decoration: none;
+            text-justify: distribute;
           }
 
         @media screen and (max-width: 480px) {
@@ -152,6 +153,7 @@ section {
             line-height: 100%;
             font-size: 80%;
             text-decoration: none;
+            text-justify: distribute;
             margin: 0;
             padding: 0px 0px;
           }
