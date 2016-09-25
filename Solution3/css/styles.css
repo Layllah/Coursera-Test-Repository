@@ -101,7 +101,7 @@ section {
 #chicken {
 	border: 1px solid black;
 	text-align: center;
-	text-shadow: 2px 2px 2px white;
+	text-shadow: 1px 1px 1px white;
 	width: 30%;
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
