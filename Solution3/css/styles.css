@@ -197,3 +197,13 @@ section {
 	font-color: #000000;
 
 }
+@media (min-width: 768px) and (max-width: 991px) {
+	background-image: url('../images/backgroundsm.jpg') no-repeat;
+	height: 431px;
+
+@media (max-width: 767px) {
+	backgound-image: url('../images/backgroundxs.jpg no-repeat;
+	height: 430px;
+	}
+	
+
