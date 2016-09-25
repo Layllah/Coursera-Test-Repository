@@ -16,7 +16,7 @@ div {
 }
 
 
-.nav {
+.logo-img {
 
 }
 
@@ -68,6 +68,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: #c7e3f8;
+	margin-bottom: 60px;
 
 }
 
@@ -177,4 +178,21 @@ section {
 
 .nav-header {
   background-color: #FFFFFF;
+}
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  padding-top: 20px;
+  height: 90px;
+  background-color: #64a6e0;
+  text-align: center;
+  line-height: 100%;
+}
+
+#contact {
+	font-family: arial, sans-serif;
+	text-align: center;
+	font-color: #000000;
+
 }
