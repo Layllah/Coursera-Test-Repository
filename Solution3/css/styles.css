@@ -181,21 +181,22 @@ section {
   background-color: #FFFFFF;
 }
 .footer {
-  position: relative;
-  bottom: 0;
-  width: 100%;
-  padding-top: 20px;
-  height: 90px;
-  background-color: #64a6e0;
-  font-size: 1vw;
-  text-align: center;
-  line-height: 100%;
+	
+	padding: 10px 0;
+	background-color: #64a6e0;
+	text-align: center;
+	position: relative;
+	 
 }
 
-#contact {
-	font-family: arial, sans-serif;
-	text-align: center;
-	font-color: #000000;
+
+
+}
+div.mark {
+    background-color: #64a6e0;
+    color: black;
+}
+
 
 }
 @media (min-width: 768px) and (max-width: 991px) {
